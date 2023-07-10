@@ -11,8 +11,9 @@ The partial scheme of an amplifier can be seen below,
 
 ![img](https://raw.githubusercontent.com/rtek1000/Amplifier-output-protection/main/Doc/Amp_schematic.png)
 
+------
 
-The circuit of Thermal protection is based on the TL431 which is widely used in switching power supplies, this IC is very reliable.
+The circuit of Thermal protection is based on the TL431 which is widely used in switching power supplies, this IC is very reliable:
 - Each output transistor must have a 10k B3950 NTC sensor.
 - The relay output can be used to jumper the signal input.
 - - Some amplifier manufacturers use a fixed mechanical thermostat of about 100°C against the heatsink.
