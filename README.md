@@ -24,6 +24,11 @@ The main schematic shows several blocks "NTC_sensor" so that each transistor can
 
 ![img](https://raw.githubusercontent.com/rtek1000/Amplifier-output-protection/main/Doc/Main_schematic.png)
 
+To fix the NTC on the transistor, Stars-922 thermal glue can be used.
+
+![img](https://raw.githubusercontent.com/rtek1000/Amplifier-output-protection/main/Doc/Thermal_Glue.jpeg)
+
+
 ## Licence:
 - Hardware:
 
