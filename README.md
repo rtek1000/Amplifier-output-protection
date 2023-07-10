@@ -7,6 +7,7 @@ Thermal protection for class AB amplifier output transistors
 The partial scheme of an amplifier can be seen below,
 - Where there is the current limiting transistor (T10),
 - The resistor 0R33 (R37) serves as a reference to monitor the current of the output transistor (T16).
+- The other output transistors (T18, T20) are not monitored.
 
 ![img](https://raw.githubusercontent.com/rtek1000/Amplifier-output-protection/main/Doc/Amp_schematic.png)
 
