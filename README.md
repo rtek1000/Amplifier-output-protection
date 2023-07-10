@@ -1,7 +1,8 @@
 # Amplifier-output-protection
 Thermal protection for class AB amplifier output transistors
 
-- Most class AB amplifiers built with NPN and PNP transistors are very poor in protection. Some designs put a simple current limiter, but this does not guarantee the thermal protection of the transistor.
+- Most class AB amplifiers built with NPN and PNP transistors are very poor in protection.
+- - Some designs put a simple current limiter, but this does not guarantee the thermal protection of the transistor.
 
 ![img](https://raw.githubusercontent.com/rtek1000/Amplifier-output-protection/main/Doc/Amp_schematic.png)
 
