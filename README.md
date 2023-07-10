@@ -20,6 +20,7 @@ The circuit of Thermal protection is based on the TL431 which is widely used in 
 ![img](https://raw.githubusercontent.com/rtek1000/Amplifier-output-protection/main/Doc/Basic_schematic.png)
 
 The main schematic shows several blocks so that each transistor can be monitored independently:
+- If the amplifier has 20 output transistors, 20 blocks are needed.
 
 ![img](https://raw.githubusercontent.com/rtek1000/Amplifier-output-protection/main/Doc/Main_schematic.png)
 
